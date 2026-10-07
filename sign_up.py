@@ -1,1 +1,2 @@
-print("left")
+print("Middle")
+
